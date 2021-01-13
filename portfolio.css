@@ -1,0 +1,16 @@
+#wrapper {
+  height: 900px;
+  width: 900px;
+  background-color: blueviolet;
+}
+#links {
+  margin-left: 300px;
+}
+#links a {
+  margin-right: 10px;
+}
+
+#intro {
+  margin-top: 200px;
+  margin-left: 300px;
+}
